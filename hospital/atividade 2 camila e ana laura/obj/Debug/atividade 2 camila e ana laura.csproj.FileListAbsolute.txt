@@ -1,0 +1,7 @@
+C:\Users\ana.laamaral\source\repos\atividade 2 camila e ana laura\atividade 2 camila e ana laura\bin\Debug\atividade 2 camila e ana laura.exe.config
+C:\Users\ana.laamaral\source\repos\atividade 2 camila e ana laura\atividade 2 camila e ana laura\bin\Debug\atividade 2 camila e ana laura.exe
+C:\Users\ana.laamaral\source\repos\atividade 2 camila e ana laura\atividade 2 camila e ana laura\bin\Debug\atividade 2 camila e ana laura.pdb
+C:\Users\ana.laamaral\source\repos\atividade 2 camila e ana laura\atividade 2 camila e ana laura\obj\Debug\atividade 2 camila e ana laura.csproj.AssemblyReference.cache
+C:\Users\ana.laamaral\source\repos\atividade 2 camila e ana laura\atividade 2 camila e ana laura\obj\Debug\atividade 2 camila e ana laura.csproj.CoreCompileInputs.cache
+C:\Users\ana.laamaral\source\repos\atividade 2 camila e ana laura\atividade 2 camila e ana laura\obj\Debug\atividade 2 camila e ana laura.exe
+C:\Users\ana.laamaral\source\repos\atividade 2 camila e ana laura\atividade 2 camila e ana laura\obj\Debug\atividade 2 camila e ana laura.pdb
